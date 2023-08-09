@@ -17,7 +17,7 @@ export const galleryItems = [
     preview:
       './img/gal3.webp',
     original:
-      '../img/gal3.webp',
+      './img/gal3.webp',
     description: 'Хочу лежати',
   },
   {
@@ -39,6 +39,6 @@ export const galleryItems = [
       './img/gal6.webp',
     original:
       './img/gal6.webp',
-    description: 'Третім будеш?',
+    description: 'Вже усе відморозив',
   },
 ];

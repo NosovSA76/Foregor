@@ -4,8 +4,8 @@
   text-align: center;
   font-size: 28px;
   padding: 20px;
-  width: 600px;
-  height: 400px;
+  width: 320px;
+  height: 250px;
   transition: all 0.5s;
   cursor: pointer;
   box-shadow: 0 9px #999;
@@ -20,7 +20,7 @@ body{
 .main {
   display: flex;
   flex-wrap: wrap;
-  gap: 200px 800px;
+  gap: 150px 700px;
   justify-content: center;
   align-items: center;
 }
@@ -115,8 +115,8 @@ dialog {
 .popap_content {
   background-color: white;
   color: black;
-  width: 800px;
-  height: 800px;
+  width: 600px;
+  height: 600px;
   padding: 30px;
   position: relative;
   transition: all 0.8s ease 0s;
@@ -138,7 +138,9 @@ dialog {
 
 }
 
-.popap_text {}
+.contacts-conteiner {
+  text-align: center;
+}
 
 a {
   text-decoration: none;
